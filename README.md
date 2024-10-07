@@ -1,1 +1,5 @@
 # SAPC-PLM
+
+Bert-finetune是各类Bert模型的微调代码
+Llama2-finetune是各类Llama模型的微调代码
+Structure-PLM-ChatGLM是给Llama做增量预训练的代码，包括本文的融合结构信息的预训练与传统的因果语言建模的预训练
