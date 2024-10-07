@@ -8,9 +8,6 @@
 - transformers >= 4.38.0
 - torch >= 1.7.1
 
-## Usage
-This project consists of two main steps: preprocessing the binary file, and then training the encoder for instruction sequence using DiffBCE. Below are the details on how to run each step:
-
 ### 数据集
 预训练以及专利分类测试数据集下载链接. https://cail.oss-cn-qingdao.aliyuncs.com/cail2019/CAIL2019-SCM.zip
 
