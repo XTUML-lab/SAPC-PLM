@@ -12,6 +12,8 @@
 预训练以及专利分类测试数据集下载链接. https://cail.oss-cn-qingdao.aliyuncs.com/cail2019/CAIL2019-SCM.zip
 
 # 项目说明
-`Bert-finetune`是各类Bert模型的微调代码
-`Llama2-finetune`是各类Llama模型的微调代码
-`Structure-PLM-ChatGLM`是给Llama做增量预训练的代码，包括本文的融合结构信息的预训练与传统的因果语言建模的预训练
+`Bert-finetune`：Bert模型的微调代码
+
+`Llama2-finetune`：Llama模型的微调代码
+
+`Structure-PLM-ChatGLM`：给Llama做增量预训练的代码，包括本文的融合结构信息的预训练与传统的因果语言建模的预训练
